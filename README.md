@@ -3,6 +3,12 @@
 
 Puzzle Land is a remake of the gameboy game Daedalian opus also known as puzzle road in japan. The gameplay and levels are the same but the graphics, music sounds have changed. It's a puzzle game with 36 levels. It is a tribute to a game i spend endless hours playing as a child.
 
+## Screenshots
+![screenshot 1](screenshots/screenshot1.png)
+![screenshot 2](screenshots/screenshot2.png)
+![screenshot 3](screenshots/screenshot3.png)
+![screenshot 4](screenshots/screenshot4.png)
+
 ## Vircon32 Game Features:
 - 36 Levels
 - Faithfull Gameboy game Remake
@@ -27,7 +33,7 @@ Yann R. Fernandez aka Ryf Made the main character, fairy, shadow and the clouds 
 
 Music by MusMus [https://musmus.main.jp/](https://musmus.main.jp/)
 
-Fonts by [donald hays](https://devforum.play.date/t/some-small-fonts/1356)
+Mini2X Font by [donald hays](https://devforum.play.date/t/some-small-fonts/1356)
 
 text.wav: Gamemaster Audio - Pro Sound Collection v1.3 - 16bit - https://www.gamedevmarket.net/asset/pro-sound-collection/
 bridge.wav (cartoon Split) & elf.wav (harp) - a1freesoundeffects (no longer exists, but webarchive has it http://web.archive.org/web/20050701021700/http://www.a1freesoundeffects.com/noflash.htm )
