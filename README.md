@@ -36,6 +36,7 @@ Music by MusMus [https://musmus.main.jp/](https://musmus.main.jp/)
 Mini2X Font by [donald hays](https://devforum.play.date/t/some-small-fonts/1356)
 
 text.wav: Gamemaster Audio - Pro Sound Collection v1.3 - 16bit - https://www.gamedevmarket.net/asset/pro-sound-collection/
+
 bridge.wav (cartoon Split) & elf.wav (harp) - a1freesoundeffects (no longer exists, but webarchive has it http://web.archive.org/web/20050701021700/http://www.a1freesoundeffects.com/noflash.htm )
 
 Other sounds is unknown, the game was made 15-20 years ago in different times and i did not keep track of where i got the sounds from or if i created them myself. I know used to use sfxr a lot in those times, if you happend to recognize any sound file please let me know
