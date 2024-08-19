@@ -5,7 +5,7 @@
 #include "texture.h"
 #include "libs/TextFonts/textfont.h"
 
-#define DEBUG 1
+#define DEBUG 0
 
 #define WINDOW_WIDTH 320
 #define WINDOW_HEIGHT 240
