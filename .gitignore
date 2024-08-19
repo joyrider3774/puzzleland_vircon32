@@ -63,3 +63,6 @@ dkms.conf
 /Source/music/oldman.wav
 /Source/music/stage.wav
 /Source/music/title.wav
+/.vscode
+/bin
+/obj
