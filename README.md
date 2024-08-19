@@ -27,6 +27,7 @@ The aim of the game, is to solve the puzzles in any puzzle room with the pieces 
 | X | During game play flip activated puzzle piece horizontally |
 | Y | During game play flip activated puzzle piece vertically |
 | R | During game play reset room |
+| START | Back to title screen |
 
 ## Credits
 Yann R. Fernandez aka Ryf Made the main character, fairy, shadow and the clouds graphics.
@@ -39,4 +40,4 @@ text.wav: Gamemaster Audio - Pro Sound Collection v1.3 - 16bit - https://www.gam
 
 bridge.wav (cartoon Split) & elf.wav (harp) - a1freesoundeffects (no longer exists, but webarchive has it ( http://web.archive.org/web/20050701021700/http://www.a1freesoundeffects.com/noflash.htm )
 
-Other sounds is unknown, the game was made 15-20 years ago in different times and i did not keep track of where i got the sounds from or if i created them myself. I know used to use sfxr a lot in those times, if you happen to recognize any sound file please let me know
+Other sounds is unknown, the game was made 15-20 years ago in different times and i did not keep track of where i got the sounds from or if i created them myself. I know i used to use sfxr a lot in those times, if you happen to recognize any sound file please let me know
